@@ -2,9 +2,6 @@ from .day import Day
 
 class Day02(Day):
 
-    def strToInt(a):
-        return int(a)
-
     def part1(self, data):
         result = 0
         strings = data.split("\n")
