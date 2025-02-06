@@ -1,4 +1,4 @@
 from days import *
 
-day = Day05()
+day = Day06()
 day.run()
